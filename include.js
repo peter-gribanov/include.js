@@ -3,6 +3,7 @@
  *
  * @author    Peter Gribanov <info@peter-gribanov.ru>
  * @copyright Copyright (c) 2015, Peter Gribanov
+ * @license   http://opensource.org/licenses/MIT MIT
  * @since     19.03.15
  * @version   2.3
  */
